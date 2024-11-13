@@ -43,6 +43,15 @@ What I Liked:
 
 - Additionally, the "recipes" for performing threat hunting were a highlight. These practical examples provided concrete methods for identifying and mitigating threats, making the concept of threat hunting accessible and understandable.
 
+## 5. Detecting & Hunting Ransomware Operator Tools: It Is Easier Than You Think! (https://youtu.be/oMAvSpq9fYY?si=W3rEKARR13Om9pCN)
+
+What I Liked:
+
+- Ryan Chapman's webinar provided an insightful overview of the tools often leveraged by ransomware operators. One of the most compelling aspects was the detailed exploration of the tools and projects frequently used in ransomware operations, such as Living Off Trusted Sites (LOTS) and Bring Your Own Vulnerable Driver (BYOVD). Understanding these tools' roles and their forensic implications was incredibly enlightening.
+
+- I appreciated how Ryan broke down complex topics, such as the forensic workings of PsExec-like tools and the importance of hunting for rogue installations of Remote Monitoring & Maintenance (RMM) tools. This detailed analysis offered practical insights into detecting and preventing ransomware activities, making the information highly actionable.
+
+- The discussion on data exfiltration tools like Winzip, 7Zip, WinSCP, FileZilla, Rclone, and MEGAsync was particularly fascinating. Learning how these tools leave forensic artifacts that can be used by defenders was a valuable takeaway. It underscored the importance of thorough forensic analysis in identifying and responding to ransomware threats.
 
 
 
