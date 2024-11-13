@@ -54,9 +54,15 @@ What I Liked:
 - The discussion on data exfiltration tools like Winzip, 7Zip, WinSCP, FileZilla, Rclone, and MEGAsync was particularly fascinating. Learning how these tools leave forensic artifacts that can be used by defenders was a valuable takeaway. It underscored the importance of thorough forensic analysis in identifying and responding to ransomware threats.
 
 
+## 6. The Cycle of Cyber Threat Intelligence | SANS (https://youtu.be/J7e74QLVxCk?si=6AQlzojfo84-cfbm)
 
+What I Liked:
 
+- Katie Nickels' webinar on cyber threat intelligence (CTI) offered an in-depth exploration of the traditional Intelligence Cycle, a crucial process for ensuring effective CTI. One of the standout aspects was the clear and structured explanation of each phase of the Intelligence Cycle—planning, collection, processing, analysis, and dissemination. This comprehensive coverage provided a solid foundation for understanding how CTI should be conducted to drive better decision-making.
 
+- I appreciated the practical insights and key considerations shared for each phase of the cycle. Katie's ability to break down complex concepts into understandable and actionable steps was particularly valuable, making the material accessible even to those new to CTI.
+
+- Another highlight was the integration of real-world examples and best practices. Learning from Katie's extensive experience in network defense, incident response, and cyber threat intelligence added immense value to the session. Her liberal arts background and dedication to inspiring young women in STEM through programs like the Cyberjutsu Girls Academy also underscored the diverse approaches and inclusive mindset she brings to the field.
 
 
 
