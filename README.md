@@ -81,6 +81,8 @@ What I Liked:
 
 
 
+## Resources 
 
+https://www.sans.org/presentations/
 
 
