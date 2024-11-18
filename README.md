@@ -65,5 +65,22 @@ What I Liked:
 - Another highlight was the integration of real-world examples and best practices. Learning from Katie's extensive experience in network defense, incident response, and cyber threat intelligence added immense value to the session. Her liberal arts background and dedication to inspiring young women in STEM through programs like the Cyberjutsu Girls Academy also underscored the diverse approaches and inclusive mindset she brings to the field.
 
 
+## 7. Hunting and Scoping A Ransomware Attack | SANS (https://youtu.be/h076AA1ZroY?si=BdKLRVbx6xS0f-Bu)
+
+What I Liked:
+
+- Andrew Skatoff's webinar provided an insightful and comprehensive look into the final objective of ransomware actors, which is to encrypt all files. What stood out to me the most was the in-depth analysis of how, in the midst of a ransomware attack, it's crucial to quickly identify all impacted devices and determine if data exfiltration and extortion are part of the attack. The practical steps for assessing the situation, such as checking if backups have been destroyed, were incredibly valuable.
+
+- I particularly appreciated the detailed coverage of common ransomware gang "hands on keyboard" techniques. Understanding how these actors steal data, disable defenses, and make recovery difficult offered a real-world perspective on the threats organizations face. The hands-on approach to teaching these techniques, along with the tips for preventing, detecting, and responding to such attacks, was exceptionally helpful.
+
+- Another highlight was the actionable hunt logic presented. The ability to employ this logic immediately for early detection and rapid scoping of a ransomware compromise is a powerful takeaway, equipping viewers with the tools they need to respond effectively in a crisis.
+
+
+
+
+
+
+
+
 
 
