@@ -75,9 +75,15 @@ What I Liked:
 
 - Another highlight was the actionable hunt logic presented. The ability to employ this logic immediately for early detection and rapid scoping of a ransomware compromise is a powerful takeaway, equipping viewers with the tools they need to respond effectively in a crisis.
 
+## 8. Hunting The Dark Web's King of Ransomware (https://youtu.be/YaTVlw8c2dE?si=z-XfFZlyS2g1TskN)
 
+What I liked:
 
+- This video provided an in-depth and captivating exploration of LockBit and its notorious operations. One of the most compelling aspects was the detailed recounting of significant attacks on major companies such as Royal Mail, SpaceX, and Boeing. The insight into how a single individual, known as LockBitSupp, orchestrated these attacks and extorted substantial sums of money was both fascinating and chilling.
 
+- I appreciated the comprehensive timeline that traced the FBI's investigation back to 2020. This historical perspective added depth to the narrative, showing how LockBitSupp's actions evolved over time through lies, theft, and betrayal to reach the top of the cybercriminal hierarchy.
+
+- The focus on Jon DiMaggio's research was another highlight. The video’s ability to distill complex research into an engaging and understandable format was impressive. It not only shed light on the inner workings of LockBit but also underscored the importance of thorough and meticulous research in uncovering cyber threats.
 
 
 
