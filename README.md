@@ -96,7 +96,7 @@ What I liked:
 
 ## Resources 
 
-https://www.sans.org/presentations/
-https://www.sans.org/podcasts/blueprint/
+- https://www.sans.org/presentations/
+- https://www.sans.org/podcasts/blueprint/
 
 
